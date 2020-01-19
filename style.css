@@ -1,0 +1,47 @@
+h1 {
+    color: white;
+    text-align: center;
+}
+
+[class^="col-"] {
+    color: black;
+}
+
+h3 {
+    color: rgb(5, 120, 252);
+}
+
+.footer {
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+input[type=text] {
+    width: 1150px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.message {
+    width: 1150px;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+input[type=submit] {
+    background-color: rgb(51, 98, 252);
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    margin: 8px 0px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.d-flex {}
+
+.container {}
